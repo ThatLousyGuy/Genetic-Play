@@ -1,0 +1,1 @@
+Run with .NET Core using `dotnet run`
